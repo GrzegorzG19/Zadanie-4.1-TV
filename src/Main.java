@@ -6,6 +6,6 @@ public class Main {
         tv.turnOn(); //włączenie tv
         tv.showTv(); //pokazanie że tv jest włączony
         tv.turnOff(); //wyłączenie tv
-        tv.showTv(); //pokazanie że tv jest wyłączony
+        tv.showTv(); //
     }
 }

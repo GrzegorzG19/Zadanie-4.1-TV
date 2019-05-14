@@ -1,14 +1,14 @@
 public class Televisor {
     boolean turn = false;
 
-    boolean turnOn() {
+    void turnOn() {
+    turn = true;
 
-        return turn = true;
     }
 
-    boolean turnOff() {
+    void turnOff() {
+        turn = false;
 
-        return turn = false;
     }
 
     void showTv() {
